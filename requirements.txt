@@ -1,4 +1,0 @@
-streamlit==0.83.0
-pyserial==3.5
-pandas==1.2.4
-Pillow==8.2.0
